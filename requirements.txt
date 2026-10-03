@@ -1,0 +1,6 @@
+opencv-python
+insightface
+numpy
+pillow
+torch
+onnxruntime

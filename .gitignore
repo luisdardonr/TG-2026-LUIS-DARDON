@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Variables de entorno / secretos
+.env
+.env.*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y archivos generados
+*.log
+
+# Datos biométricos/locales
+known_faces.json
+
+# Modelos generados localmente
+classifier_model.pt
+classifier_labels.json
